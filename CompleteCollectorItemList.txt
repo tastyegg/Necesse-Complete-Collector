@@ -1,4 +1,4 @@
-size = 2029,
+size = 2030,
 ITEM = {slot = 1, stringID = traptrack, amount = 1},
 ITEM = {slot = 2, stringID = nachos, amount = 1},
 ITEM = {slot = 3, stringID = tungstenboomerang, amount = 1},
@@ -2027,4 +2027,5 @@ ITEM = {slot = 2025, stringID = potionbag, amount = 1},
 ITEM = {slot = 2026, stringID = lifequartzbasaltrock, amount = 1},
 ITEM = {slot = 2027, stringID = brokenirontool, amount = 1},
 ITEM = {slot = 2028, stringID = dryadshovel, amount = 1},
+
 ITEM = {slot = 2029, stringID = shadowbeam, amount = 1}
